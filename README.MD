@@ -24,7 +24,7 @@ npm install social-media-sharing
 ### Usage
 
 ```
-const { ShareLink } = require('@rappler-tech/sdk-sharing');
+const { ShareLink } = require('social-media-sharing');
 
 let socialMediaLinks = new ShareLink(source);
 
@@ -34,7 +34,7 @@ let shareLink = socialMediaLinks.get({properties});
 or 
 
 ```
-import { ShareLink } from '@rappler-tech/sdk-sharing'
+import { ShareLink } from 'social-media-sharing'
 
 var socialMediaLinks = new ShareLink(source);
 
@@ -44,7 +44,7 @@ var shareLink = socialMediaLinks.get({properties});
 on React side
 
 ```
-import { ShareLink } from '@rappler-tech/sdk-sharing'
+import { ShareLink } from 'social-media-sharing'
 
 var socialMediaLinks = new ShareLink(source);
 
@@ -115,7 +115,7 @@ summary | no | string | The summary of the post
 ### Usage
 
 ```
-const { ShareCount } = require('@rappler-tech/sdk-sharing');
+const { ShareCount } = require('social-media-sharing');
 
 let url = 'http://someurl.com';
 
