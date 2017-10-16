@@ -1,6 +1,6 @@
 {
   "name": "@rappler-tech/sdk-sharing",
-  "version": "1.3.0",
+  "version": "1.0.0",
   "description": "This package contains the social media share used in Rappler site",
   "repository": {
     "type": "git",

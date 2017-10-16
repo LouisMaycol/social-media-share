@@ -14,7 +14,10 @@ And also provides share counts for these platforms:
 
 
 To install this package just do:
-``` npm install @rappler-tech/sdk-sharing ```
+``` 
+npm install social-media-sharing 
+```
+
 
 # Share Dialog #
 
