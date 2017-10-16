@@ -1,0 +1,21 @@
+{
+  "name": "@rappler-tech/sdk-sharing",
+  "version": "1.3.0",
+  "description": "This package contains the social media share used in Rappler site",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "author": "Louis Michael Concepcion",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "chai": "^4.1.2"
+  }
+}
