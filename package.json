@@ -1,7 +1,7 @@
 {
   "name": "social-media-sharing",
-  "version": "1.0.0",
-  "description": "This package contains the social media share used in Rappler site",
+  "version": "1.0.1",
+  "description": "This package contains the social media share used in site",
   "repository": {
     "type": "git",
     "url": "https://github.com/LouisMaycol/social-media-share"
@@ -10,7 +10,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d lib"
-  },
+  },"keywords": [
+    "social",
+    "media",
+    "links",
+    "link",
+    "generator",
+    "urls",
+    "share",
+    "sharing",
+    "social media",
+    "social media share"
+  ],
   "author": "Louis Michael Concepcion",
   "license": "ISC",
   "dependencies": {
